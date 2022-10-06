@@ -1,0 +1,28 @@
+header{
+    background-color: #606060;
+    color: rgb(255, 230, 180);
+}
+
+nav{
+    background-color: rgb(255, 230, 180);
+}
+
+section{
+    background-color: rgb(163, 163, 163);
+    color: white;
+}
+
+footer{
+    background-color: #606060;
+    color: rgb(255, 230, 180);
+}
+
+footer a{
+    color: rgb(255, 230, 180);
+    text-decoration: none;
+}
+
+body{
+    display: flex;
+    flex-direction: column
+}
